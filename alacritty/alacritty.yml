@@ -1,0 +1,24 @@
+import:
+  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
+shell:
+  program: /bin/zsh
+  args:
+    - --login
+font:
+  normal:
+    family: Hack NF
+    style: Regular
+
+  bold:
+    family: Hack NF
+    style: Bold
+
+  italic:
+    family: Hack NF
+    style: Italic
+
+  bold_italic:
+    family: Hack NF
+    style: Bold Italic
+
+  size: 12
